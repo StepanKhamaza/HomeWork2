@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f18d47e-38fb-4cc8-b10a-3505ac7e0db9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChildModule/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChildModule/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChildModule/src/main/java/ru/urfu/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChildModule/src/test/java/ru/urfu/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/urfu/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/urfu/AppTest.java" afterDir="false" />
+    <list default="true" id="4f18d47e-38fb-4cc8-b10a-3505ac7e0db9" name="Changes" comment="homework2-version-1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +31,49 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Naumen/HomeWork2",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.ru.urfu.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.urfu.App" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.urfu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.urfu.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.urfu.App" />
+      <module name="ChildModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.urfu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ru.urfu.App" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ru.urfu.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,8 +82,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679663825473</updated>
-      <workItem from="1679663827031" duration="5632000" />
+      <workItem from="1679663827031" duration="6238000" />
+      <workItem from="1679825884406" duration="632000" />
     </task>
+    <task id="LOCAL-00001" summary="homework2-version-1.0">
+      <created>1679669954338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679669954338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,10 +103,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework2-version-1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2-version-1.0" />
   </component>
 </project>
